@@ -1,4 +1,4 @@
-d3.sankey = () => {
+export default sankey = (d3) => {
   'use strict';
 
   const sankey = {};
