@@ -1,0 +1,19 @@
+{
+  "name": "sankeymatic",
+  "version": "1.0.0",
+  "description": "Hosted and available for use at: **http://sankeymatic.com/build/**",
+  "main": "build/sankey.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBrainChain/sankeymatic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheBrainChain/sankeymatic/issues"
+  },
+  "homepage": "https://github.com/TheBrainChain/sankeymatic#readme"
+}
