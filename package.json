@@ -1,6 +1,6 @@
 {
   "name": "@thebrainchain/sankeymatic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hosted and available for use at: **http://sankeymatic.com/build/**",
   "main": "build/sankey.js",
   "scripts": {
